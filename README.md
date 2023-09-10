@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi theren I'm Maria Eduarda Andrade 👋
 
-<!--
-**andradeduuda/andradeduuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+I'm studying web development at [Rocketseat].(https://rocketseat.com.br/).
 
-Here are some ideas to get you started:
+###Current stack
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HML5`, `CSS3`, `Javascript`
+- Layout Design: `Figma`
+- Version Code Control: `Git e Gtirhub`
+- Tools: `VsCode`, `Marckdown`
+- I'm mostly withing the `Rocketseat Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Contacts
+- Email: andradeeduarda1998@gmail.com
+- Linkedin: https://www.linkedin.com/in/maduandrade/
